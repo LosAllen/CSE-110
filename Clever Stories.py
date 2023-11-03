@@ -1,4 +1,5 @@
 #Added a option do restart the sequence once.
+#
 
 adjective = input('Choose an adjective:')
 animal = input('Choose an animal:')
